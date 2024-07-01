@@ -1,41 +1,26 @@
-# WEB HACKATHON - 1
-Welcome to the Portfolio Website Hackathon! We are excited to have you join us in creating amazing portfolio websites. Below are the guidelines to ensure a smooth and productive hackathon experience.
+<h1 align="center">Hi 👋, I'm mathew Rutto</h1>
+<h3 align="center">A passionate frontend developer from Africa</h3>
 
-## Introduction
-The goal of this hackathon is to build a one page portfolio website that showcases your skills, projects, and professional experience. This is an excellent opportunity to create or enhance your personal brand and demonstrate your abilities to potential employers or clients.
+<p align="left"> <a href="https://twitter.com/mathewrutto18" target="blank"><img src="https://img.shields.io/twitter/follow/mathewrutto18?logo=twitter&style=for-the-badge" alt="mathewrutto18" /></a> </p>
 
-## Project Requirements
-### Personal Information: 
-Include sections for your name, a brief bio, contact information, and links to your social media profiles (e.g., LinkedIn, GitHub).
+- 🔭 I’m currently working on **Frameworks**
 
-### Portfolio: 
-Showcase your projects with descriptions, images, and links to live demos or repositories.
+- 🌱 I’m currently learning **C# dotnet framework**
 
-### Skills: 
-List your technical and non-technical skills.
+- 💬 Ask me about **react,flutter,kotlin**
 
-### Experience: 
-Detail your professional experience, including job titles, companies, and descriptions of your roles.
+- 📫 How to reach me **mathewrutto524@gmail.com**
+<h3 align="left">Experiences</h3>
+<P>Kenya power and lighting company <br> -Trainee </P>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mathewrutto18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mathewrutto18" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mathew-rutto-484235206?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b17s2fixnqywga0lsvsw5qq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mathew-rutto-484235206?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b17s2fixnqywga0lsvsw5qq%3d%3d" height="30" width="40" /></a>
+</p>
 
-### Education: 
-Include your educational background.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
-## Submission Guidelines
-Repository Setup: Fork this repository and create a new branch for your project.
-Commit Messages: Use clear and descriptive commit messages to document your progress.
-Pull Request: Submit a pull request to the main branch once you have completed your project. Include a brief description of your website and any additional notes.
-Deadline: All submissions must be made by monday 1st July 12pm EAT
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathewrutto&show_icons=true&locale=en&layout=compact" alt="mathewrutto" /></p>
 
-## Judging Criteria
-Submissions will be judged based on the following criteria:
-
-Design: Visual appeal, creativity, and user interface design.
-Functionality: Responsiveness, performance, and interactivity.
-Content: Clarity, completeness, and presentation of information.
-Originality: Unique features, innovative approaches, and personal touches.
-Code Quality: Cleanliness, organization, and use of best practices.
-
-Happy hacking and we look forward to seeing your amazing portfolio websites!
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathewrutto&" alt="mathewrutto" /></p>
